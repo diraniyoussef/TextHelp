@@ -1,0 +1,3 @@
+rootProject.name='TextHelp'
+include ':student'
+include ':teacher'
